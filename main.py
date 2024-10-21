@@ -1,7 +1,6 @@
 import pandas as pd
 import requests
 from datetime import datetime
-from ttkbootstrap.constants import *
 from matplotlib.figure import Figure
 from matplotlib.backends.backend_tkagg import FigureCanvasTkAgg
 from io import BytesIO
