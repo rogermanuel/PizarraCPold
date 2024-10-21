@@ -1,7 +1,6 @@
 import pandas as pd
 import requests
 from datetime import datetime
-import ttkbootstrap as ttk
 from ttkbootstrap.constants import *
 from tkinter import messagebox
 from matplotlib.figure import Figure
